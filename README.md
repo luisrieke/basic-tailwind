@@ -1,4 +1,4 @@
-<h1 align="center">Basic Structure for future Tailwind projects</h1>
+<h1 align="center">Basic structure for future tailwind projects</h1>
 
 Tailwind can make work easier because it works on a different _abstraction level_.
 
@@ -8,6 +8,8 @@ We’ll do the same with CSS by using Tailwind.
 
 Tailwind is a way to apply CSS by using _special HTML classes._
 
+<a href="https://tailwindcss.com/docs/installation">Tailwind CSS Documentation</a>
+
 ## Installing & Running
 
 ### Prerequisites:
@@ -16,8 +18,8 @@ Tailwind is a way to apply CSS by using _special HTML classes._
 
 ### Installation:
 
-Install initial dependencies using `npm i`
+- Install initial dependencies using `npm i`
 
 ### Running:
 
-Build Tailwind using `npm run tw:build`
+- Build Tailwind using `npm run tw:build`
