@@ -8,7 +8,11 @@ We’ll do the same with CSS by using Tailwind.
 
 Tailwind is a way to apply CSS by using _special HTML classes._
 
-<a href="https://tailwindcss.com/docs/installation">Tailwind CSS Documentation</a>
+## Links and external ressources
+
+<a href="https://tailwindcss.com/docs/installation">tailwind CSS documentation</a>
+
+<a href="https://basic-tailwind.spacifik.dev/">view website live</a>
 
 ## Installing & Running
 
