@@ -22,7 +22,7 @@ Tailwind is a way to apply CSS by using _special HTML classes._
 
 ### Installation:
 
-- Install initial dependencies using `npm i`
+- Install initial dependencies using `npm install`
 
 ### Running:
 
